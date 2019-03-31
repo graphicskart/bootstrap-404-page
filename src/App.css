@@ -1,0 +1,25 @@
+.App {
+  padding: 40px;
+}
+
+.text {
+  color: #5f3871;
+  font-size: 20px;
+}
+
+.btn {
+  color: #5f3871;
+  border-color: #5f3871;
+}
+
+.btn:hover {
+  background: #fff;
+  color: #5f3871;
+  border-color: #5f3871;
+}
+
+@media only screen and (max-width: 768px) {
+  img {
+    width: 100%;
+  }
+}
